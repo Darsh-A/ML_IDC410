@@ -1,0 +1,47 @@
+reconstruction was implemented in AliRoot with the help from core o✏ine people,
+Federico Carminati, Peter Hristov and Cvetan Cheshkov. At di↵erent stages of this
+thesis I have learned several important facts from Andreas Morsch, Matevz Tadel and
+Latchezar Betev and I owe to them for their patience and help.
+However, the winter in CERN is not a very enjoyable time, which I have realized
+in the first visit. But, it is the warmth of the friends and colleagues like Badri, Jacob,
+Miranda, Sabyasachi (Gudda), Dilip, that helps to survive at this odd environment.
+In fact, in bigger sense I have to thank the point II crew and all ALICE members for
+the friendly atmosphere.
+The memory pages of our brain does not follow the chronological order,
+therefore, the colleagues and friends who were associated with me even before the
+starting of this course appear at the bottom of the page. It is my greatest pleasure to
+have Sanjoy-da, Purnendu-da, Pradip-da, Dabasish-da, Santosh, Bhola, Satya, Safi,
+Bhabesh, Lipy-di, Dipankar-da, Sampa, Pappu-da and Sanjib-da around all the time,
+whenever I needed them. I would like to convey my sincere thanks to Suvendu Bose
+and Tinku Sinha for their suggestions and e↵ort to maintain the homely atmosphere
+during the stay at CERN. I would also like to thank Abhee K. Dutt-Mazumdar and
+specially to Pradip Roy for the theoretical lessons of heavy ion collisions before the
+start of this thesis work. In similar way, I am also thankful to Dinesh Srivastava
+for the important discussions and suggestions regarding the HIJING Monte Carlo.
+People who know Bikash Sinha, would agree that the Indian e↵ort to the QGP study
+at large scale has been started by him. But even within his busy schedule he always
+had time for the students and always tried to motivate us towards the fundamental
+laws of nature. I would like to thank him for his constant support at every stage
+whenever it was needed.
+Now only the half of the sun is visible in the horizon and the birds are coming
+back to their nests. I remember the appreciation and courage of both of my families
+(by birth and in-law’s) that always recharges me at the moment, when I am tired and
+shattered. I owe my life to my, father, mother, father-in-law, mother-in-law and two
+grown up children my sister and brother-in-law. In this occasion, I also like to thank
+our well wisher Kaushik Mazumder for sharing the wonderful moments with us.
+This sunset at the seashore is the moment when the night slowly embraces the
+day light at a place where the earth kisses the sea. The ambiance reminds me the
+better half of mine, and I like to thank her for everything. A large part of this work
+is based on the sacrifice of the sweetest moments of our life. I am fortunate to have
+Gargi as wife and without her appreciation, adjustment, sacrifice nothing was possible
+to complete.
+I am thankful to all of the above persons from the bottom of my heart to help
+me to complete this thesis work. When we remember people at our leisure time we
+do not mark them with their titles (Prof. or Dr.), but rather by their role in our
+life. Therefore, I apologize for my daring thanksgiving which I have cherished in the
+serene beach at Goa.
+Lastly, I beg apology to all the people whom I have missed to mention in this
+page.
+.
+
+
