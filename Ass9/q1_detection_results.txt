@@ -1,0 +1,8 @@
+image: image0.jpg
+  bus  conf=0.87  bbox=(22,231,805,756)
+  person  conf=0.87  bbox=(48,398,245,902)
+  person  conf=0.85  bbox=(669,392,809,877)
+  person  conf=0.83  bbox=(221,405,344,857)
+  person  conf=0.26  bbox=(0,550,63,873)
+  stop sign  conf=0.26  bbox=(0,254,32,324)
+
